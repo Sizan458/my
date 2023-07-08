@@ -118,7 +118,7 @@ padding: 20px;
 .icon{
     display: flex;
   align-items: center;
-  justify-content:space-between;
+  justify-content:space-around;
   
   padding: 20pX;
   
@@ -133,12 +133,14 @@ padding: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    justify-content: space-around;
+  align-items: left;
   
 }
 .ma{
    height: 50px;
 width:95px;
+padding: 20px;
+
 
 
   
@@ -146,7 +148,7 @@ width:95px;
 .ba{
     
     color: #737272;
-text-align: center;
+text-align: left;
 font-family: Work Sans;
 font-size: 25px;
 font-style: normal;
