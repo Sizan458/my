@@ -140,6 +140,7 @@ padding: 20px;
    height: 50px;
 width:95px;
 
+
   
 }
 .ba{
@@ -152,4 +153,39 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 
+}
+.key{
+    background-image: url("images/HNNGm.jpg") ;
+    background-repeat: no-repeat;
+   
+    
+    width: 1540px;
+height: 300px;
+margin-top: 90px;
+
+}
+.pos{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    padding: 20px;
+   
+}
+.rt{
+    width: 160px;
+height: 64px;
+color: #F15B22;
+text-align: center;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 20px;
+}
+.pop{
+    padding: 300PX;
 }
